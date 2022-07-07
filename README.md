@@ -2,5 +2,5 @@
 
 - 🔭 I’m currently working on dev
 
-/symfony/i/stars/:projectUuid
+![SymfonyInsight Stars](https://img.shields.io/symfony/i/stars/angular?style=plastic)
 
