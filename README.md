@@ -2,5 +2,4 @@
 
 - 🔭 I’m currently working on dev
 
-![SymfonyInsight Stars](https://img.shields.io/symfony/i/stars/angular?style=plastic)
-
+https://img.shields.io/amo/stars/start?color=pink&logo=pink&logoColor=pink&style=for-the-badge
