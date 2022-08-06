@@ -10,4 +10,5 @@
 <hr>
 <p align="center">
     <img src="https://media0.giphy.com/media/dZoAqciFF0GAPPBnZ2/giphy.gif" width=100>
+    <img src="https://media3.giphy.com/media/Me7PBESMDoWyzSN9M9/giphy.gif" width=60>
 </p>
