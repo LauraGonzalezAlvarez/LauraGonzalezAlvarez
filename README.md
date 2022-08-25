@@ -6,7 +6,7 @@
  
  <img src="https://media4.giphy.com/media/U6GL20Vz7uX0Wtp46i/giphy.gif" width=15> I’m currently working on dev 💻
 
-![Mozilla Add-on](https://img.shields.io/amo/stars/star?color=pink&label=Laura)
+![Mozilla Add-on](https://img.shields.io/amo/stars/star?color=pink&label=LauraG)
 
 <hr>
 <p align="center">
