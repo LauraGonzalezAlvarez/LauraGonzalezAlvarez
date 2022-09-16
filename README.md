@@ -1,6 +1,6 @@
 <h1 align="center">
     <img src="https://media1.giphy.com/media/eHjrC6X9zDIMI0alnP/giphy.gif" width=60>
-    <tt>Hello worldj</tt>
+    <tt>Hello world</tt>
     <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width=40 /> 
 </h1>
  
